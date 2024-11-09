@@ -1,2 +1,1 @@
-cifs_ddec.zip filter=lfs diff=lfs merge=lfs -text
 MCD_240611.zip filter=lfs diff=lfs merge=lfs -text
